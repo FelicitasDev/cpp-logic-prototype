@@ -18,3 +18,6 @@ Das Projekt diente als praktischer Einstieg in die C++ Entwicklung. Schwerpunkte
 
 ---
 *Status: Funktionale Demo zur Veranschaulichung der C++ Grundlagen.*
+
+Copyright (c) 2026 FelicitasDev. Alle Rechte vorbehalten.
+Der Quellcode dieses Projekts ist privates Eigentum und darf ohne ausdrückliche Genehmigung nicht kopiert, verbreitet oder in anderen Projekten verwendet werden.
